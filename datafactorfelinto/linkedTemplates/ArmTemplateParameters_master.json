@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "datafactorfelinto"
+		},
+		"databricks_datafactory_link_accessToken": {
+			"value": ""
+		},
+		"databricks_datafactory_link_properties_typeProperties_existingClusterId": {
+			"value": "0811-165650-q81y1qsn"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
