@@ -1,0 +1,9 @@
+{
+	"name": "datafactorfelinto",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a050633d-6cdf-44bc-b468-3ed85e0ff1a7",
+		"tenantId": "501fdc2c-b8ec-4d30-911d-f2c16f2ed318"
+	}
+}
